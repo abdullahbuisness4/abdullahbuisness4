@@ -36,11 +36,9 @@ I'm currently learning and exploring Generative AI, Python Programming, and Web 
 
 I'm always interested in connecting with fellow students, developers, and technology enthusiasts.
 
-- 💼 LinkedIn: "Connect with me" (YOUR_LINKEDIN_URL)
-- 🐙 GitHub: "Follow me" (https://github.com/YOUR_GITHUB_USERNAME)
-- 📧 Email: YOUR_EMAIL_ADDRESS
+- 💼 LinkedIn: "Connect with me" (https://www.linkedin.com/public-profile/settings/)
+- 🐙 GitHub: [Follow me](https://github.com/abdullahbuisness4)
 
----
 
 💡 My Philosophy
 
